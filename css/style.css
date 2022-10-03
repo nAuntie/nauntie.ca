@@ -141,15 +141,15 @@ blockquote {
 .nav-bkg {
   color: white;
   background: #5332bb;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #5332bb 80%, #cec2f1 80%);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #5332bb 80%, #cec2f1 80%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(135deg, #5332bb 80%, #f7eddd 80%);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(135deg, #5332bb 80%, #f7eddd 80%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .nav-bkg-50 {
   color: white;
   background: #5332bb;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #5332bb 50%, #cec2f1 50%);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #5332bb 50%, #cec2f1 50%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(135deg, #5332bb 50%, #f7eddd 50%);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(135deg, #5332bb 50%, #f7eddd 50%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .drop-shadow {
@@ -483,8 +483,8 @@ h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child {
   color: white;
   box-shadow: 0 5px 5px -5px #777777;
   background: #5332bb;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #5332bb 85%, #cec2f1 85%);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #5332bb 85%, #cec2f1 85%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(135deg, #5332bb 85%, #f7eddd 85%);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(135deg, #5332bb 85%, #f7eddd 85%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .expander .button {
