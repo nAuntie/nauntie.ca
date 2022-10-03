@@ -111,7 +111,7 @@ body {
   }
 
   .look-sheet-bkg {
-    background-color: #fffdf7;
+    background-color: #e3ddf7;
   }
 }
 
@@ -140,16 +140,16 @@ blockquote {
 
 .nav-bkg {
   color: white;
-  background: #00223E;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #00223E 80%, #FFA17F 80%);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #00223E 80%, #FFA17F 80%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #5332bb;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(135deg, #5332bb 80%, #cec2f1 80%);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(135deg, #5332bb 80%, #cec2f1 80%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .nav-bkg-50 {
   color: white;
-  background: #00223E;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #00223E 50%, #FFA17F 50%);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #00223E 50%, #FFA17F 50%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #5332bb;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(135deg, #5332bb 50%, #cec2f1 50%);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(135deg, #5332bb 50%, #cec2f1 50%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .drop-shadow {
@@ -248,7 +248,7 @@ hr {
 }
 
 body {
-  background-color: #fffdf7;
+  background-color: #e3ddf7;
 }
 
 figcaption {
@@ -395,7 +395,7 @@ p {
 }
 
 .list-of-titles li.draft {
-  background: repeating-linear-gradient(     135deg,    #fffdf7,   #fffdf7 10px,   #ffd4a3 12px,   #ffd4a3 12px );
+  background: repeating-linear-gradient(     135deg,    #e3ddf7,   #e3ddf7 10px,   #ffd4a3 12px,   #ffd4a3 12px );
 }
 
 .post-meta.draft {
@@ -411,7 +411,7 @@ p {
 }
 
 aside.article-aside {
-  background-color: #fffdf7;
+  background-color: #e3ddf7;
   padding: 0 1em;
   margin-top: 3em;
 }
@@ -454,7 +454,7 @@ h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child {
 }
 
 .expander {
-  background-color: #fffdf7;
+  background-color: #e3ddf7;
   padding: 0 1em;
   position: relative; /* anchor for the buttons */
 }
@@ -482,9 +482,9 @@ h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child {
 
   color: white;
   box-shadow: 0 5px 5px -5px #777777;
-  background: #00223E;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #00223E 85%, #FFA17F 85%);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #00223E 85%, #FFA17F 85%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #5332bb;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(135deg, #5332bb 85%, #cec2f1 85%);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(135deg, #5332bb 85%, #cec2f1 85%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .expander .button {
@@ -541,7 +541,7 @@ a.footnote-backref::before {
 }
 
 aside .header-link {
-  background: linear-gradient(90deg, rgba(0,0,0,0) 0%, #fffdf7 20%);
+  background: linear-gradient(90deg, rgba(0,0,0,0) 0%, #e3ddf7 20%);
 }
 
 .header-link:hover {
@@ -617,11 +617,11 @@ article table td:not(:first-child), article table th:not(:first-child) {
 }
 
 article table thead tr {
-  border-bottom: 1px solid #00223E;
+  border-bottom: 1px solid #5332bb;
 }
 
 article table {
-  border-bottom: 1px solid #00223E;
+  border-bottom: 1px solid #5332bb;
 }
 
 article table thead th {
